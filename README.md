@@ -4,7 +4,7 @@
 
 - `<` - Aligns the interpolated value to the left within the available space. It’s the default alignment for most objects.
 - `>` - Aligns the interpolated value to the right within the available space. It’s the default alignment for numbers.  
-- `^`-  Aligns the interpolated value in the center of the available space.  
+- `^` -  Aligns the interpolated value in the center of the available space.  
 - `=` - Adds padding after the sign but before the digits in numeric values. It’s the default for numbers when 0 immediately precedes the field width. 
 
 
